@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎙️ Local RAG MultiModal Chatbot
+# 🎙️ Local RAG Chatbot
 
 ![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
