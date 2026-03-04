@@ -1,5 +1,5 @@
 # Software Engineering & Quality Assurance Plan
-**Project Name:** LocalRAG-Voice (Offline Multimodal RAG Assistant)  
+**Project Name:** Local RAG Chatbot (Offline Multimodal RAG Assistant)  
 **Organization:** UMTI Tech Solutions  
 **Document Version:** 1.0  
 **Date:** March 2026  
